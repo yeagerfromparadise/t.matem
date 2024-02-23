@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+font-size: large;
+}
+p{
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-style:   solid;
+    border-width: 1px;
+    border-color: rgb(72,158,228);
+    border-left: 6px solid rgb(72,158,228)
+    }
+
+span{
+    color:  rgb(72,158,228) ;
+}
